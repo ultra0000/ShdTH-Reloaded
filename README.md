@@ -81,12 +81,10 @@ You can get your hashes of your ISO by right clicking your game in Dolphin's gam
 
 A How-To-Setup video is available. Check the releases page.
 
-### Nintendont Users: Custom Build Required
-At time of release of v1.2 (2024/07/01) Nintendont does not officially support oversized ISOs.
+### Nintendont
 
-You will need to use [this build of Nintendont instead](https://github.com/nfsman34/Nintendont-SonicRiders/releases) until [this PR is merged](https://github.com/FIX94/Nintendont/pull/1213). When the PR is merged, you can update your official Nintendont and switch to it.
-If playing with Nintendont, enable Unlocked Read Speed before launching the game.
-
+You will need to update your Nintendont to `v6.503 / Apr 29 2025 21:51:03` otherwise your system will power off on loading a level.
+Enable `Unlocked Read Speed` in Nintendont before launching the game.
 
 ### Computer
 1. Download [the latest release from here](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded/releases) - choosing either the original aspect ratio version or the widescreen version. Patchers exist for NTSC-U, NTSC-J, and PAL.
