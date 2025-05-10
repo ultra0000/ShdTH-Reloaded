@@ -83,8 +83,10 @@ A How-To-Setup video is available. Check the releases page.
 
 ### Nintendont
 
-You will need to update your Nintendont to `v6.503 / Apr 29 2025 21:51:03` otherwise your system will power off on loading a level.
-Enable `Unlocked Read Speed` in Nintendont before launching the game.
+You will need to update your Nintendont to at least `v6.503 / Apr 30 2025 20:50:09` otherwise your system will power off on loading a level.
+
+ 
+Enable `Unlocked Read Speed` in Nintendont before launching the game for the best experience.
 
 ### Computer
 1. Download [the latest release from here](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded/releases) - choosing either the original aspect ratio version or the widescreen version. Patchers exist for NTSC-U, NTSC-J, and PAL.
