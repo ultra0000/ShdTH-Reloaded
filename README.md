@@ -9,6 +9,8 @@ Reloaded is for the GameCube version, and is playable on Dolphin Emulator (recom
 
 Reloaded v1.2 is the final revision, released on 2024-07-01.
 
+If you are looking to play this but in the form of a 2P Multiplayer Mod, check out [2P-Reloaded](https://github.com/ShadowTheHedgehogHacking/2P-Reloaded).
+
 Release video: https://youtu.be/1yM2kJjyhZQ
 
 ## Main Changes
@@ -91,7 +93,7 @@ Enable `Unlocked Read Speed` in Nintendont before launching the game for the bes
 ### Computer
 1. Download [the latest release from here](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded/releases) - choosing either the original aspect ratio version or the widescreen version. Patchers exist for NTSC-U, NTSC-J, and PAL.
 2. Extract your chosen version release zip.
-3. Get the latest release or dev Dolphin - [dolphin-5.0-21460 or newer recommended](https://dolphin-emu.org/download/)
+3. Get the latest release or dev Dolphin - [Dolphin 2407 or newer recommended](https://dolphin-emu.org/download/)
 4. Visit https://shadowthehedgehoghacking.github.io/xdelta-wasm/ or any other xdelta3 patcher of your choice.
 5. Specify your original ISO as the `Source file`.
 6. Specify the `reloaded-[region]-[aspect].xdelta` file you extracted as the `Patch file`.
