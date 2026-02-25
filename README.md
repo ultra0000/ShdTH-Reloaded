@@ -1,7 +1,30 @@
-<div align="center"><h1>Shadow The Hedgehog: Reloaded</h1>  
+<div align="center"><h1>Shadow The Hedgehog: Uncut & Reloaded</h1>  
 <img src="https://raw.githubusercontent.com/ShadowTheHedgehogHacking/ShdTH-Reloaded/master/workspace/res/title_screen.png" align="center" />
 </div>
 
+This is an work-in-progress fork of the community-made mod Shadow the Hedgehog: Reloaded. It restores certain content from the game's T-rated beginnings, and also does a few different things here and there.
+
+Changes (from Reloaded) include:
+* Added uncensored 'your ass' line in the cutscene after completing the Hero mission in Westopolis.
+* Added 'What the hell is going on with me...' line in Semi-Dark CGI cutscene.
+* Added red Black Arms blood (changed from green), using the E3 build for reference.
+* Added vocals back to Iron Jungle's song.
+* Updated credits theme songs.
+* * Almost Dead by Powerman 5000 for the Pure Dark-Dark ending.
+* * I'm The One by Static-X for the Pure Dark-Hero and Pure Hero-Dark endings.
+* * 4 Words (To Choke Upon) by Bullet for My Valentine for both Semi Dark endings. 
+* * Waking Up by Julien-K for both Neutral endings.
+* * The Chosen One by A2 for both Semi Hero endings.
+* * All Hail Shadow by Magna-Fi for the Pure Hero-Hero ending.
+* Replaced Devil Doom boss fight song with Who I Am by Magna-Fi.
+* Replaced 'Hmph... Perfect.' line when getting an S rank with 'One badass hedgehog!' line found in E3 build.
+
+# Credits
+* ultra0: Project Lead (of this fork)
+* MrNoobNub: Iron Jungle song with re-added vocals.
+Below is Reloaded's original README. **Please read the credits below for the rest of contributors**. They did a lot of the heavy lifting here.
+
+# Original README
 
 Shadow the Hedgehog: Reloaded is an improvement mod of Shadow the Hedgehog designed to make the game less tedious, increase challenge, fix bugs and oversights, restore some unused content, and generally remix levels.
 
