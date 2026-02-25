@@ -24,7 +24,7 @@ Changes (from Reloaded) include:
 * MrNoobNub: Iron Jungle song with re-added vocals.
 Below is Reloaded's original README. **Please read the credits below for the rest of contributors**. They did a lot of the heavy lifting here.
 
-# Original README
+<div align="center"><h1>-Original README-</h1>  
 
 Shadow the Hedgehog: Reloaded is an improvement mod of Shadow the Hedgehog designed to make the game less tedious, increase challenge, fix bugs and oversights, restore some unused content, and generally remix levels.
 
