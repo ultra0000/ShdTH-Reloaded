@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/ShadowTheHedgehogHacking/ShdTH-Reloaded/master/workspace/res/title_screen.png" align="center" />
 </div>
 
-This is an work-in-progress fork of the community-made mod Shadow the Hedgehog: Reloaded. It restores certain content from the game's T-rated beginnings, and also does a few different things here and there.
+This is an work-in-progress fork of the community-made mod Shadow the Hedgehog: Reloaded. It restores certain content from the game's T-rated beginnings, and also does a few different things here and there. Contributions are welcome.
 
 Changes (from Reloaded) include:
 * Added uncensored 'your ass' line in the cutscene after completing the Hero mission in Westopolis.
@@ -22,7 +22,9 @@ Changes (from Reloaded) include:
 # Credits
 * ultra0: Project Lead (of this fork)
 * MrNoobNub: Iron Jungle song with re-added vocals.
-Below is Reloaded's original README. **Please read the credits below for the rest of contributors**. They did a lot of the heavy lifting here.
+* **Please read the credits below for the rest of contributors**. They did a lot of the heavy lifting here.
+
+Below is Reloaded's original README.
 
 <div align="center"><h1>-Original README-</h1></div>
 
