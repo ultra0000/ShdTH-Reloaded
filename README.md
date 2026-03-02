@@ -4,7 +4,7 @@
 
 This is an work-in-progress fork of the community-made mod Shadow the Hedgehog: Reloaded. It restores certain content from the game's T-rated beginnings, and also does a few different things here and there. Contributions are welcome.
 
-Changes (from Reloaded) include:
+Changes include:
 * Added uncensored 'your ass' line in the cutscene after completing the Hero mission in Westopolis.
 * Added 'What the hell is going on with me...' line in Semi-Dark CGI cutscene.
 * Added red Black Arms blood (changed from green), using the E3 build for reference.
@@ -18,6 +18,7 @@ Changes (from Reloaded) include:
 * * All Hail Shadow by Magna-Fi for the Pure Hero-Hero ending.
 * Replaced Devil Doom boss fight song with Who I Am by Magna-Fi.
 * Replaced 'Hmph... Perfect.' line when getting an S rank with 'One badass hedgehog!' line found in E3 build.
+* Most things from Reloaded.
 
 # Credits
 * ultra0: Project Lead (of this fork)
