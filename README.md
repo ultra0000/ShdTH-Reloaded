@@ -2,11 +2,12 @@
 <img src="https://raw.githubusercontent.com/ultra0000/ShdTH-Reloaded/master/workspace/res/title_screen.png" align="center" />
 </div>
 
-This is an work-in-progress fork of the community-made mod Shadow the Hedgehog: Reloaded. It restores certain content from the game's T-rated beginnings, and also does a few different things here and there. Contributions are welcome.
+This is an work-in-progress fork of the community-made mod Shadow the Hedgehog: Reloaded. It restores content from the game's T-rated vision, and also does a few different things here and there. Contributions are welcome.
 
 Changes include:
-* Added uncensored 'your ass' line in the cutscene after completing the Hero mission in Westopolis.
+* Added 'your ass' line in the cutscene after completing the Hero mission in Westopolis.
 * Added 'What the hell is going on with me...' line in Semi-Dark CGI cutscene.
+* Added 'The president has been terminated.' line when completing Air Fleet's Dark mission.
 * Added red Black Arms blood (changed from green), using the E3 build for reference.
 * Added vocals back to Iron Jungle's song.
 * Updated credits theme songs.
