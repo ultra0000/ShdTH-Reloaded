@@ -13,8 +13,8 @@ It is recommended to play this ROM Hack
 There are 4:3 and 16:9 versions available.
 Do not use Nintendont/Dolphin built in "Widescreen Hacks", this ROM already properly handles aspect ratio adjustments.
 
-Version v1.2
-Release 2024-07-01
+BETA 1
+Release 2026-04-14
 
-Source code in repo ShdTH-Reloaded on GitHub
-https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded
+Source code in ultra0's repository ShdTH-Reloaded on GitHub
+https://github.com/ultra0000/ShdTH-Reloaded
