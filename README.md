@@ -11,6 +11,7 @@ Changes include:
 * Added 'The president has been terminated.' line when completing Air Fleet's Dark mission.
 * Added red Black Arms blood (changed from green), using the E3 build for reference.
 * Added vocals back to Iron Jungle's song.
+* Updated Shadow to use his E3 textures, as the final ones have a very slight brown.
 * Updated textures of Black Arms aliens to be darker. This matches their CGI look and their depiction in Shadow Generations.
 * Updated credits theme songs.
 * * Almost Dead by Powerman 5000 for the Pure Dark-Dark ending.
