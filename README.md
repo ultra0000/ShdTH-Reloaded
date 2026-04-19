@@ -53,6 +53,8 @@ Release video: https://youtu.be/1yM2kJjyhZQ
 
 ### Missions
 - Many missions are more forgiving, allowing you to miss a few enemies or objects instead of needing to find ALL of them.
+- ~~Partner characters won't stop you with their "camera zoom" introductions when you first meet them.~~ Removed.
+- ~~Partner characters won't automatically swap your active mission if you manually "lock in" your desired mission, either via D-Pad or by the Pause Menu. D-Pad Up will reset back to automatic swapping.~~ Removed.
 
 ### Levels
 - S Rank has been added to the Rank system. Good luck!
@@ -64,7 +66,7 @@ Release video: https://youtu.be/1yM2kJjyhZQ
 ### Player Actions
 - Shadow is generally faster and more responsive.
 - Hold L to always perform a Jump Dash instead of a Homing Attack. This is useful if you don't want to target enemies while platforming.
-- You can toggle between Original and Reloaded melee weapon styles with the Z button. In Reloaded style, hold B to activate the weapon's hitbox, and hold B+L to perform rapid swings while running. You can also lock-in the weapon's hitbox by sliding while holding B.
+- ~~You can toggle between Original and Reloaded melee weapon styles with the Z button. In Reloaded style, hold B to activate the weapon's hitbox, and hold B+L to perform rapid swings while running. You can also lock-in the weapon's hitbox by sliding while holding B.~~ Removed.
 - Go faster or slow down while riding the cyberspace circuits by pressing the A and B buttons.
 - Shadow can now slide out of a spindash, homing attack, and jump dash.
 - Sliding duration is player controlled. Hold X to slide as long as you want.
@@ -75,8 +77,8 @@ Release video: https://youtu.be/1yM2kJjyhZQ
 - An inaccessible area in Lost Impact is now reachable.
 - Some unused dialogue was restored/added where appropriate.
 - “E.G.G.M.A.N. (Doc Robeatnix Mix)” was added to Lava Shelter's Egg Dealer fight. This was normally only played briefly during a cutscene.
-- "Who I Am", a planned track, was added to GUN Fortress Hero and Final Haunt Dark endings.
-- "Broken", a planned track, was added to Black Comet's endings. (Black Comet normally reused a GUN Fortress ending track.)
+- ~~"Who I Am", a planned track, was added to GUN Fortress Hero and Final Haunt Dark endings.~~ See updated track list above.
+- ~~"Broken", a planned track, was added to Black Comet's endings. (Black Comet normally reused a GUN Fortress ending track.)~~ See updated track list above.
 
 ### Visuals
 - Widescreen and 4:3 ratio options.
