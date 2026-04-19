@@ -5,11 +5,13 @@
 This is an work-in-progress fork of the community-made mod Shadow the Hedgehog: Reloaded. It restores content from the game's T-rated vision, and also does a few different things here and there. Contributions are welcome.
 
 Changes include:
+* Added Sonic's cut Kung-Fu poses in Space Gadget cutscene.
 * Added 'your ass' line in the cutscene after completing the Hero mission in Westopolis.
 * Added 'What the hell is going on with me...' line in Semi-Dark CGI cutscene.
 * Added 'The president has been terminated.' line when completing Air Fleet's Dark mission.
 * Added red Black Arms blood (changed from green), using the E3 build for reference.
 * Added vocals back to Iron Jungle's song.
+* Updated textures of Black Arms aliens to be darker. This matches their CGI look and their depiction in Shadow Generations.
 * Updated credits theme songs.
 * * Almost Dead by Powerman 5000 for the Pure Dark-Dark ending.
 * * I'm The One by Static-X for the Pure Dark-Hero and Pure Hero-Dark endings.
