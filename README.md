@@ -27,6 +27,7 @@ Changes include:
 
 # Credits
 * ultra0: Project Lead (of this fork)
+* Saturn Advanced: Widescreen Backgrounds
 * MrNoobNub: Iron Jungle song with re-added vocals.
 * **Please read the credits below for the rest of contributors**. They did a lot of the heavy lifting here.
 
