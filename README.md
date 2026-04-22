@@ -11,6 +11,7 @@ Changes include:
 * Added 'The president has been terminated.' line when completing Air Fleet's Dark mission.
 * Added red Black Arms blood (changed from green), using the E3 build for reference.
 * Added vocals back to Iron Jungle's song.
+* Updated widescreen menus to be more polished overall.
 * Updated Shadow to use his E3 textures, as the final ones have a very slight brown.
 * Updated textures of Black Arms aliens to be darker. This matches their CGI look and their depiction in Shadow Generations.
 * Updated credits theme songs.
@@ -28,7 +29,7 @@ Changes include:
 # Credits
 * ultra0: Project Lead (of this fork)
 * Saturn Advanced: Widescreen Backgrounds
-* MrNoobNub: Iron Jungle song with re-added vocals.
+* MrNoobNub: Iron Jungle song with re-added vocals
 * **Please read the credits below for the rest of contributors**. They did a lot of the heavy lifting here.
 
 Below is Reloaded's original README.
