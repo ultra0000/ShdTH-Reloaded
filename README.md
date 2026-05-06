@@ -13,7 +13,6 @@ Changes include:
 * Added vocals back to Iron Jungle's song.
 * Updated certain menus to actually fill the screen rather than having a black bar at the bottom (matching Xbox and PS3 behavior).
 * Updated widescreen menus to be more polished overall.
-* Updated Shadow to use his E3 textures, as the final ones have a very slight brown.
 * Updated textures of Black Arms aliens to be darker. This matches their CGI look and their depiction in Shadow Generations.
 * Updated credits theme songs.
 * * Almost Dead by Powerman 5000 for the Pure Dark-Dark ending.
