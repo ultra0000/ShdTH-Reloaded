@@ -1,16 +1,16 @@
-files/advertise.txd
-files/doomseye.one
-files/gindows.png
-files/InfoWindow.txd
-files/csdFiles/Logo_JP.gncp
-files/csdFiles/MediaMenu.gncp
-files/stg0401/stg0401_21.one
-files/stg0402/stg0402_tex02.one
-files/stg0614/stg0614_80.one
+rm files/advertise.txd
+rm files/doomseye.one
+rm files/gindows.png
+rm files/InfoWindow.txd
+rm files/csdFiles/Logo_JP.gncp
+rm files/csdFiles/MediaMenu.gncp
+rm files/stg0401/stg0401_21.one
+rm files/stg0402/stg0402_tex02.one
+rm files/stg0614/stg0614_80.one
 
-files/csdFiles/JP
-files/palsel
-files/stg6000
-files/stg8900
-files/stg9900
-files/stg9901
+rm -r files/csdFiles/JP
+rm -r files/palsel
+rm -r files/stg6000
+rm -r files/stg8900
+rm -r files/stg9900
+rm -r files/stg9901
