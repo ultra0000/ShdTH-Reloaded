@@ -371,24 +371,6 @@ NTSC 1.06 --- 0x80204E60 ---- 901E006C -> Branch
 	-==-
 
 
-Expert Select Mode Lives
-Uses ExpertSelectModeLives.asm
-
-Set Lives to 99 if entering Expert Mode from Select Mode
-[BlazinZzetti, dreamsyntax]
-Revision ---- DOL Offset ---- Hex to Replace ---------- ASM Code -
-NTSC 1.06 --- 0x8016F014 ---- 800300A0 -> Branch
-
-3E00805E 6210F9A8
-82100000 82100004
-28100000 4182000C
-800300A0 48000008
-38000063 00000000
-
-
-	-==-
-
-
 Prevent Saving Expert Lives in Select Mode
 Uses ExpertSelectModePreventLivesSave.asm and ExpertSelectModePreventLivesSave2.asm
 
