@@ -12,6 +12,7 @@ Changes include:
 * Added red Black Arms blood (changed from green), using the E3 build for reference.
 * Added vocals back to Iron Jungle's song.
 * Updated certain menus to actually fill the screen rather than having a black bar at the bottom (matching Xbox and PS3 behavior).
+* Updated 2D pictures in cutscenes for widescreen.
 * Updated widescreen menus to be more polished overall.
 * Updated textures of Black Arms aliens to be darker. This matches their CGI look and their depiction in Shadow Generations.
 * Updated credits theme songs.
@@ -29,6 +30,8 @@ Changes include:
 # Credits
 * ultra0: Project Lead (of this fork)
 * Saturn Advanced: Widescreen Backgrounds
+* DoomGuyRiDEV: Sky Troops cutscene 2D pictures
+* Raphael Drew Boltman: Lethal Highway cutscene eyelid animations ported from Beta 4
 * MrNoobNub: Iron Jungle song with re-added vocals
 * **Please read the credits below for the rest of contributors**. They did a lot of the heavy lifting here.
 
