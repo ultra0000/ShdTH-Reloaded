@@ -698,3 +698,13 @@ ec00182a 3e4042c8
 40820014 88a30004
 38a50001 98a30004
 38a00000 00000000
+
+
+	-==-
+
+
+Disable Partner Intro
+Disables the intro camera event when you meet a partner in the stage
+[LimblessVector]
+Revision ---- DOL Offset ---- Hex to Replace ---------- ASM Code -
+NTSC 1.06 ---- 0x6D6D0 ------ 4082004C -> 4800004c

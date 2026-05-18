@@ -59,7 +59,7 @@ Release video: https://youtu.be/1yM2kJjyhZQ
 
 ### Missions
 - Many missions are more forgiving, allowing you to miss a few enemies or objects instead of needing to find ALL of them.
-- ~~Partner characters won't stop you with their "camera zoom" introductions when you first meet them.~~ Removed.
+- Partner characters won't stop you with their "camera zoom" introductions when you first meet them. (**U&R NOTE**: This change is now only present in "SX" builds.)
 - ~~Partner characters won't automatically swap your active mission if you manually "lock in" your desired mission, either via D-Pad or by the Pause Menu. D-Pad Up will reset back to automatic swapping.~~ Removed.
 
 ### Levels
