@@ -6,7 +6,8 @@ This is an work-in-progress fork of the community-made mod Shadow the Hedgehog: 
 
 Changes include:
 * Added Sonic's cut Kung-Fu poses in Space Gadget cutscene.
-* Added 'your ass' line in the cutscene after completing the Hero mission in Westopolis.
+* Added cut eyelid animations from Beta 4 build in Lethal Highway cutscene.
+* Added 'your ass' line in Lethal Highway cutscene.
 * Added 'What the hell is going on with me...' line in Semi-Dark CGI cutscene.
 * Added 'The president has been terminated.' line when completing Air Fleet's Dark mission.
 * Added red Black Arms blood (changed from green), using the E3 build for reference.
