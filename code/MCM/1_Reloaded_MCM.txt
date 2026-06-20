@@ -1162,28 +1162,28 @@ NTSC 1.06 --- 0x80204FFC ---- 2C000000 -> 2c000001
 	-==-
 
 
-Separate Save File - GUPR8P
-Modifies the game ID in code to allow loading from a seperate save file than the original shadow the hedgehog.
-[dreamsyntax]
+Separate Save File - GUPU8P
+Modifies the game ID in code to allow loading from a seperate save file than the original Shadow the Hedgehog.
+[dreamsyntax, ultra0]
 Revision ---- DOL Offset ---- Hex to Replace ---------- ASM Code -
-NTSC 1.06 ---- 0x57D780 ----- 47555045 -> 47555052
+NTSC 1.06 ---- 0x57D780 ----- 47555045 -> 47555055
 
 
 	-==-
 
 
 Save Data Description Update
-Update SHADOW THE HEDGEHOG to SHADOW RELOADED
-and SHADOWTHEHEDGEHOG to SHADOWRELOADED
-[BlazinZzetti]
+Update SHADOW THE HEDGEHOG to SHADOW UNCUT & R
+and SHADOWTHEHEDGEHOG to SHADOWUNCUTNRE
+[BlazinZzetti, ultra0]
 Revision ---- DOL Offset ---- Hex to Replace ---------- ASM Code -
-NTSC 1.06 ---- 0x4F8964 ----- 4F572054 -> 4f572052
--------------- 0x4F8968 ----- 48452048 -> 454C4F41
--------------- 0x4F896C ----- 45444745 -> 44454400
+NTSC 1.06 ---- 0x4F8964 ----- 4F572054 -> 4f572055
+-------------- 0x4F8968 ----- 48452048 -> 4e435554
+-------------- 0x4F896C ----- 45444745 -> 20262052
 -------------- 0x4F8970 ----- 484F4700 -> 20202000
--------------- 0x4F899C ----- 4F575448 -> 4F575245
--------------- 0x4F89A0 ----- 45484544 -> 4C4F4144
--------------- 0x4F89A4 ----- 4745484F -> 45440020
+-------------- 0x4F899C ----- 4F575448 -> 4f57554e
+-------------- 0x4F89A0 ----- 45484544 -> 4355544e
+-------------- 0x4F89A4 ----- 4745484F -> 52450020
 -------------- 0x4F89A8 ----- 47000000 -> 20000000
 
 
@@ -1304,3 +1304,6 @@ allow the hrd variant gimmick to function properly.
 [dreamsyntax]
 Revision ---- DOL Offset ---- Hex to Replace ---------- ASM Code -
 NTSC 1.06 --- 0x802D3934 ---- 9421FF90 -> 4E800020
+
+
+	-==-
