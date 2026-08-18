@@ -72,7 +72,7 @@ Release video: https://youtu.be/1yM2kJjyhZQ
 ### Player Actions
 - Shadow is generally faster and more responsive.
 - Hold L to always perform a Jump Dash instead of a Homing Attack. This is useful if you don't want to target enemies while platforming.
-- ~~You can toggle between Original and Reloaded melee weapon styles with the Z button. In Reloaded style, hold B to activate the weapon's hitbox, and hold B+L to perform rapid swings while running. You can also lock-in the weapon's hitbox by sliding while holding B.~~ Removed.
+- You can toggle between Original and Reloaded melee weapon styles with the Z button. In Reloaded style, hold B to activate the weapon's hitbox, and hold B+L to perform rapid swings while running. You can also lock-in the weapon's hitbox by sliding while holding B. (**U&R NOTE**: Might be removed or slightly revamped later.)
 - Go faster or slow down while riding the cyberspace circuits by pressing the A and B buttons.
 - Shadow can now slide out of a spindash, homing attack, and jump dash.
 - Sliding duration is player controlled. Hold X to slide as long as you want.
