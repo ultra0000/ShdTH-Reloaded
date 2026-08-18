@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/ultra0000/ShdTH-Reloaded/master/workspace/res/title_screen.png" align="center" />
 </div>
 
-This is an work-in-progress fork of the community-made mod Shadow the Hedgehog: Reloaded. It restores content from the game's T-rated vision, and also does a few different things here and there. Contributions are welcome.
+This is a work-in-progress fork of the community-made mod Shadow the Hedgehog: Reloaded. It restores content from the game's T-rated vision, and also does a few different things here and there. Contributions are welcome.
 
 Changes include:
 * Added Sonic's cut Kung-Fu poses in Space Gadget cutscene.
