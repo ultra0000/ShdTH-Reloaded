@@ -32,7 +32,7 @@ Changes include:
 # Credits
 * ultra0: Project Lead (of this fork)
 * Saturn Advanced: Widescreen Backgrounds
-* DoomGuyRiDEV: Sky Troops cutscene 2D pictures & Semi-Dark Hero ending line
+* DoomGuyRiDEV: Sky Troops cutscene 2D pictures, Dark Mission completed line in Air Fleet, & Semi-Dark Hero ending line.
 * JRxStellar: Semi-Dark Hero ending line audio clean-up
 * Raphael Drew Boltman: Lethal Highway cutscene eyelid animations ported from Beta 4
 * MrNoobNub: Iron Jungle song with re-added vocals
