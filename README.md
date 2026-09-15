@@ -23,6 +23,7 @@ Changes include:
 * * Waking Up by Julien-K for both Neutral endings.
 * * The Chosen One by A2 for both Semi Hero endings.
 * * All Hail Shadow by Magna-Fi for the Pure Hero-Hero ending.
+* Replaced 'Goodbye, doctor!!' line in Semi-Dark Hero ending with 'Die, you bastard!!!' from E3 build. The original line is kept in both Neutral endings.
 * Replaced Devil Doom boss fight song with Who I Am by Magna-Fi.
 * Replaced 'Hmph... Perfect.' line when getting an S rank with 'One badass hedgehog!' line found in E3 build.
 * Replaced menu confirmed selection sound with variant found in prototype builds.
@@ -31,7 +32,8 @@ Changes include:
 # Credits
 * ultra0: Project Lead (of this fork)
 * Saturn Advanced: Widescreen Backgrounds
-* DoomGuyRiDEV: Sky Troops cutscene 2D pictures
+* DoomGuyRiDEV: Sky Troops cutscene 2D pictures & Semi-Dark Hero ending line
+* JRxStellar: Semi-Dark Hero ending line audio clean-up
 * Raphael Drew Boltman: Lethal Highway cutscene eyelid animations ported from Beta 4
 * MrNoobNub: Iron Jungle song with re-added vocals
 * **Please read the credits below for the rest of contributors**. They did a lot of the heavy lifting here.
