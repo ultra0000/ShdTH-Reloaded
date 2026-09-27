@@ -16,13 +16,6 @@ Changes include:
 * Updated 2D pictures in cutscenes for widescreen.
 * Updated widescreen menus to be more polished overall.
 * Updated textures of Black Arms aliens to be darker. This matches their CGI look and their depiction in Shadow Generations.
-* Updated credits theme songs.
-* * Almost Dead by Powerman 5000 for the Pure Dark-Dark ending.
-* * I'm The One by Static-X for the Pure Dark-Hero and Pure Hero-Dark endings.
-* * 4 Words (To Choke Upon) by Bullet for My Valentine for both Semi Dark endings. 
-* * Waking Up by Julien-K for both Neutral endings.
-* * The Chosen One by A2 for both Semi Hero endings.
-* * All Hail Shadow by Magna-Fi for the Pure Hero-Hero ending.
 * Replaced 'Goodbye, doctor!!' line in Semi-Dark Hero ending with 'Die, you bastard!!!' from E3 build. The original line is kept in both Neutral endings.
 * Replaced Devil Doom boss fight song with Who I Am by Magna-Fi.
 * Replaced 'Hmph... Perfect.' line when getting an S rank with 'One badass hedgehog!' line found in E3 build.
@@ -85,8 +78,8 @@ Release video: https://youtu.be/1yM2kJjyhZQ
 - An inaccessible area in Lost Impact is now reachable.
 - Some unused dialogue was restored/added where appropriate.
 - “E.G.G.M.A.N. (Doc Robeatnix Mix)” was added to Lava Shelter's Egg Dealer fight. This was normally only played briefly during a cutscene.
-- ~~"Who I Am", a planned track, was added to GUN Fortress Hero and Final Haunt Dark endings.~~ See updated track list above.
-- ~~"Broken", a planned track, was added to Black Comet's endings. (Black Comet normally reused a GUN Fortress ending track.)~~ See updated track list above.
+- ~~"Who I Am", a planned track, was added to GUN Fortress Hero and Final Haunt Dark endings.~~ Moved to Devil Doom boss fight.
+- ~~"Broken", a planned track, was added to Black Comet's endings. (Black Comet normally reused a GUN Fortress ending track.)~~ Removed, as it did not fit.
 
 ### Visuals
 - Widescreen and 4:3 ratio options.
